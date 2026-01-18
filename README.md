@@ -10,7 +10,7 @@ This dashboard provides clear insights into:
 - Monthly Sales & Profit trend
 - Top & Bottom Products based on Category, Sub-category & Ship mode-wise
 
-## 🖼️Dashboard
+## 🖼️ Dashboard
 <img width="1376" height="775" alt="Screenshot 2026-01-18 204335" src="https://github.com/user-attachments/assets/2d32275c-45df-49a4-a3fd-58f02ba4af00" />
 
 ## 🛠 Tools & Technologies
